@@ -31,6 +31,15 @@ namespace JokesWebApp.Controllers
             return View();
         }
 
+        // PoST: Jokes/ShowSearchResults
+        public async Task<IActionResult> ShowSearchResults(string SearchPhrase)
+        {
+            // !!!!! 
+            // Here with these arrow function, we try to find the joke question with current word in our jokes database !
+
+            return View("Index", await _context.Joke.Where(j => j.JokeQustion.Contains(SearchPhrase)).ToListAsync());
+        }
+
         // GET: Jokes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
