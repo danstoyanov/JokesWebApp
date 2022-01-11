@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A0SFt4nioW2PzOuXP+jdQjA5HT9ulE2eVcuDxnONfdyollub5/pCeDBrOCYZILllhiQFPusIs/egsWzJ31IiTg==",
+  "dgSpecHash": "62nBnntNTwmM71y+0kPviOsKr3DRPfe+BU4dJnjMG2hbm3lAkEZg7afrbQGmDGYcspBre3vCe4bwMhp50tPUdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dakov\\Desktop\\My Folder\\Intership program\\01. ASP.NET Crash Course\\JokesWebApp\\JokesWebApp.csproj",
+  "projectFilePath": "C:\\Users\\dakov\\Source\\Repos\\danstoyanov\\JokesWebApp\\JokesWebApp\\JokesWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.20\\microsoft.aspnetcore.cryptography.internal.3.1.20.nupkg.sha512",
     "C:\\Users\\dakov\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.20\\microsoft.aspnetcore.cryptography.keyderivation.3.1.20.nupkg.sha512",
