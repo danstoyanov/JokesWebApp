@@ -150,7 +150,7 @@ namespace JokesWebApp.Controllers
         }
 
         // POST: Jokes/Delete/5
-        [HttpPost, sActionName("Delete")]
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
