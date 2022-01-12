@@ -59,7 +59,6 @@ namespace JokesWebApp.Controllers
         }
 
         // GET: Jokes/Create
-        [Authorize]
         public IActionResult Create()
         {
             return View();
@@ -151,7 +150,7 @@ namespace JokesWebApp.Controllers
         }
 
         // POST: Jokes/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost, sActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {

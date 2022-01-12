@@ -321,7 +321,6 @@ C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcor
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\TestPage.cshtml.g.cs
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Create.cshtml.g.cs
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Delete.cshtml.g.cs
 C:\Users\dakov\Source\Repos\danstoyanov\JokesWebApp\JokesWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Jokes\Details.cshtml.g.cs
