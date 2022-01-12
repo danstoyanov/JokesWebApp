@@ -37,7 +37,6 @@ namespace JokesWebApp.Controllers
         {
             // !!!!! 
             // Here with these arrow function, we try to find the joke question with current word in our jokes database !
-
             return View("Index", await _context.Joke.Where(j => j.JokeQustion.Contains(SearchPhrase)).ToListAsync());
         }
 
